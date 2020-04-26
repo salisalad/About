@@ -58,6 +58,7 @@ ul{
   font-size: 14px
   font-style: italic;
   text-align: left;
+  list-style: circle;
 }
 
 ol{
@@ -66,6 +67,7 @@ ol{
   font-size: 14px
   font-style: italic;
   text-align: left;
+  list-style: circle;
 }
 
 img{
